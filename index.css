@@ -7,16 +7,15 @@ header {
   margin: auto;
   border-style: solid;
   border-color: black;
-  background color: black;
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-size: 250%;
 }
 
 h3 {
-  color: white;
+  color: black;
   text-align: center;
 }
