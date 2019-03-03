@@ -1,12 +1,12 @@
 body {
   font-family: sans-serif;
-  background-color: white;
+  background-color: #DEE4E7;
   margin: 0;
   padding: 0;
 }
 
 header {
-  background-color: #C9C0BB;
+  background-color: #37474F;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -14,7 +14,7 @@ header {
 }
 
 footer {
-  background-color: #C9C0BB;
+  background-color: #37474F;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -46,7 +46,7 @@ p {
 .menu {    
     position: sticky; 
     top: 0; 
-    background-color: black; 
+    background-color: #1B1B1B; 
     border: none;
     color: white;
     padding: 15px 32px;
@@ -57,5 +57,5 @@ p {
     display: inline-block;
     font-size: 16px; 
 } 
-/* DEE4E7 */
+
 
