@@ -118,5 +118,6 @@ p {
 }
 
 .intro-para {
-  font-size: 150%
+  font-size: 150%;
+  margin-right: 10%;
 }
