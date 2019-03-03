@@ -5,18 +5,17 @@ body {
 
 header {
   margin: auto;
-  border: 5px solid black;
-  padding: 10px;
+  background color: black;
 }
 
 h1 {
-  color: brown;
+  color: white;
   text-align: center;
   font-size: 250%;
 }
 
 h3 {
-   color: brown;
+   color: white;
   text-align: center;
 }
 
