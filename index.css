@@ -38,9 +38,23 @@ p {
   border: none;
   color: white;
   padding: 15px 32px;
+  margin: 20px;
   text-align: center;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+}
+
+
+@keyframes move {
+  0% {left: 200 px;}
+  50% {left: 400 px;}
+  0% {right: 200 px;}
+}
+
+.button:hover {
+  position: relative;
+  animation-name: move;
+  animation-duration: 1s;
 }
 
