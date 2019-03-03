@@ -41,29 +41,3 @@ p {
   color: black;
 }
 
-.button {
-  background-color: black;
-  border: none;
-  color: white;
-  padding: 15px 32px;
-  margin: 20px;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 16px;
-  position: absolute;
-}
-
-
-@keyframes move {
-  0% {left: 200 px;}
-  50% {left: 400 px;}
-  100% {left: 600 px;}
-}
-
-.button:hover {
-  position: absolute;
-  animation-name: move;
-  animation-duration: 1s;
-}
-
