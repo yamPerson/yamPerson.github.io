@@ -44,10 +44,11 @@ p {
 .menu {    
     position: sticky; 
     top: 0; 
-    background-color: black; 
+    background-color: brown; 
     border: none;
     color: white;
     padding: 15px 32px;
+    margin: 20px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
