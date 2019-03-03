@@ -25,11 +25,13 @@ h1 {
   color: #DEE4E7;
   text-align: center;
   font-size: 250%;
+  font-weight: bold;
 }
 
 h3 {
   color: #DEE4E7;
   text-align: center;
+  font-weight: italic;
 }
 
 /* #textbox {
