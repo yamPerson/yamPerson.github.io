@@ -111,11 +111,10 @@ p {
 .yam {
   border: 2% solid #1B1B1B;
   border-radius: 2%;
-  width: 100%;
+  width: 30%;
   height: auto;
-  margin-left: 10%;
-  margin-right: 5%;
-  margin-bottom: 10%;
+  margin-left: 5%;
+  margin-bottom: 7%;
 }
 
 .intro-para {
