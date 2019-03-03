@@ -20,6 +20,9 @@ h3 {
   text-align: center;
 }
 
-# {
-
+#textbox {
+  margin: 10px;
+  padding: 10px;
+  border-style: solid;
+  border-color: black;
 }
