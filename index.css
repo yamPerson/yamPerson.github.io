@@ -24,8 +24,8 @@ footer {
 h1 {
   color: white;
   text-align: center;
-  font-size: 200%
-  letter-spacing: 5px;
+  font-size: 300%
+  letter-spacing: 8px;
 }
 
 h3 {
@@ -37,6 +37,7 @@ h2 {
   color: white;
   text-align: center;
   letter-spacing: 3px;
+  font-size: 150%;
 }
 
 /* #textbox {
