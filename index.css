@@ -4,7 +4,7 @@ body {
 }
 
 header {
-  background-color: black;
+  background-color: #FEFEFE;
   border: none;
   color: white;
   padding: 15px 32px;
@@ -20,13 +20,13 @@ footer {
 }
 
 h1 {
-  color: white;
+  color: black;
   text-align: center;
   font-size: 250%;
 }
 
 h3 {
-  color: white;
+  color: black;
   text-align: center;
 }
 
@@ -44,7 +44,7 @@ p {
 .menu {    
     position: sticky; 
     top: 0; 
-    background-color: brown; 
+    background-color: black; 
     border: none;
     color: white;
     padding: 15px 32px;
