@@ -112,7 +112,7 @@ p {
   border: 2% solid #1B1B1B;
   border-radius: 2%;
   height: 10%;
-  margin-left: 5%;
+  margin-left: 15%;
   margin-right: 5%;
   margin-bottom: 10%;
 }
@@ -120,7 +120,7 @@ p {
 .intro-para {
   font-size: 150%;
   margin-left: 40%;
-  margin-top: -24%;
+  margin-top: -20%;
   margin-bottom: 10%;
 
 }
