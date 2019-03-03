@@ -84,10 +84,10 @@ p {
   float: left;
   font-size: 21px;
   position: sticky;
-  margin-top: 5px;
-  margin-bottom: 15px;
-  margin-right: 20%;
-  margin-left: 20%;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 5%;
+  margin-left: 5%;
 }
 
 .button1 {
@@ -101,8 +101,8 @@ p {
   float: left;
   font-size: 21px;
   position: sticky;
-  margin-top: 5px;
-  margin-bottom: 15px;
-  margin-right: 20%;
-  margin-left: 60%;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: 5%;
+  margin-left: 17%;
 }
