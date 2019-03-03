@@ -24,17 +24,19 @@ footer {
 h1 {
   color: white;
   text-align: center;
-/*   font-size: 320%; */
-  font-weight: bold;
+  font-size: 200%
   letter-spacing: 5px;
 }
 
 h3 {
   color: white;
   text-align: center;
-  font-weight: italic;
-/*   font-size: 230%; */
-  letter-spacing: 2px;
+}
+
+h2 {
+  color: white;
+  text-align: center;
+  letter-spacing: 3px;
 }
 
 /* #textbox {
