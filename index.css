@@ -127,6 +127,7 @@ p {
 }
 
 .yam:hover {
+  transition-timing-function: ease-out;
   transform: scale(1.1);
   box-shadow: 10px 10px 5px grey;
 }
