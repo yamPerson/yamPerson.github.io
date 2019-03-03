@@ -126,5 +126,5 @@ p {
 }
 
 .yam:hover {
-  scale: 
+  transform: scale(1.5);
 }
