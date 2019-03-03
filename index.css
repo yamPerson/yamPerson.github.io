@@ -80,11 +80,8 @@ p {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  float: left;
   font-size: 21px;
   position: sticky;
-  margin-top: auto;
-  margin-bottom: auto;
   margin-right: 5%;
   margin-left: 5%;
   height: 8%;
@@ -98,13 +95,10 @@ p {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  float: left;
   font-size: 21px;
   position: sticky;
-  margin-top: auto;
-  margin-bottom: auto;
   margin-right: 5%;
-  margin-left: auto%;
+  margin-left: 5%;
   height: 8%;
 }
 
