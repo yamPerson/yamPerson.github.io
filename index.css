@@ -109,3 +109,11 @@ p {
   margin-left: 30%;
   height: 8%;
 }
+
+.yam {
+  border: 1px solid #1B1B1B;
+  border-radius: 10px;
+  padding: 5px;
+  width: 20%;
+  height: 10%
+}
