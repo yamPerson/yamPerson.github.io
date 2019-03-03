@@ -1,22 +1,21 @@
 body {
   font-family: sans-serif;
-  background-color: white;
+  background-color: black;
 }
 
 header {
   margin: auto;
-  border-style: solid;
-  border-color: black;
+  background-color: white;
 }
 
 h1 {
-  color: black;
+  color: white;
   text-align: center;
   font-size: 250%;
 }
 
 h3 {
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -25,4 +24,8 @@ h3 {
   padding: 10px;
   border-style: solid;
   border-color: black;
+}
+
+p {
+  color: white;
 }
