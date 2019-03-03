@@ -110,13 +110,19 @@ p {
 }
 
 .yam {
-  border: 2% solid #1B1B1B;
-  border-radius: 2%;
   width: 30%;
   height: auto;
   margin-left: 5%;
   margin-bottom: 7%;
 }
+
+.c {
+  width: 30%;
+  height: auto;
+  margin-left: 5%;
+  margin-bottom: 7%;
+}
+
 
 .intro-para {
   font-size: 150%;
