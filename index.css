@@ -10,7 +10,13 @@ header {
 }
 
 h1 {
-  color: black;
+  color: brown;
+  text-align: center;
+  font-size: 250%;
+}
+
+h3 {
+   color: brown;
   text-align: center;
 }
 
