@@ -61,8 +61,7 @@ p {
     border: none;
     color: white;
     padding: 15px 32px;
-    margin-top: 5px;
-    margin-bottom: 100px;
+    margin: auto;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -84,9 +83,3 @@ p {
   margin-right: 50px;
   margin-left: 50px;
 }
-
-.buttons {
-  margin: auto;
-
-}
-
