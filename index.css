@@ -57,7 +57,7 @@ p {
 @keyframes move {
   0% {left: 200 px;}
   50% {left: 400 px;}
-  1000% {left: 600 px;}
+  100% {left: 600 px;}
 }
 
 .button:hover {
