@@ -1,6 +1,6 @@
 body {
   font-family: 'Open Sans Condensed', sans-serif;
-  background-color: #DEE4E7;
+  background-color: white;
   margin: 0;
   padding: 0;
 }
@@ -24,7 +24,7 @@ footer {
 h1 {
   color: white;
   text-align: center;
-  font-size: 320%;
+/*   font-size: 320%; */
   font-weight: bold;
   letter-spacing: 5px;
 }
@@ -33,7 +33,7 @@ h3 {
   color: white;
   text-align: center;
   font-weight: italic;
-  font-size: 230%;
+/*   font-size: 230%; */
   letter-spacing: 2px;
 }
 
