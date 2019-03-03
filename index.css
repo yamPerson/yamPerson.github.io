@@ -24,14 +24,17 @@ footer {
 h1 {
   color: #DEE4E7;
   text-align: center;
-  font-size: 250%;
+  font-size: 450%;
   font-weight: bold;
+  letter-spacing: 5px;
 }
 
 h3 {
   color: #DEE4E7;
   text-align: center;
   font-weight: italic;
+  font-size: 150%;
+  letter-spacing: 2px;
 }
 
 /* #textbox {
@@ -42,7 +45,7 @@ h3 {
 } */
 
 p {
-  color: black;
+  color: #DEE4E7;
 }
 
 .menu {    
