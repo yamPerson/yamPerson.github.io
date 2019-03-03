@@ -24,7 +24,7 @@ footer {
 h1 {
   color: #DEE4E7;
   text-align: center;
-  font-size: 450%;
+  font-size: 320%;
   font-weight: bold;
   letter-spacing: 5px;
 }
@@ -33,7 +33,7 @@ h3 {
   color: #DEE4E7;
   text-align: center;
   font-weight: italic;
-  font-size: 150%;
+  font-size: 230%;
   letter-spacing: 2px;
 }
 
@@ -48,6 +48,8 @@ p {
   color: #DEE4E7;
 }
 
+
+
 .menu {    
     position: sticky; 
     top: 0; 
@@ -55,7 +57,7 @@ p {
     border: none;
     color: white;
     padding: 15px 32px;
-    margin-top: 20px;
+    margin-top: 5px;
     margin-bottom: 100px;
     text-align: center;
     text-decoration: none;
